@@ -1,0 +1,50 @@
+body {
+  color:White;
+}
+
+
+.navbar {
+  padding 1rem;
+  background-color: black;
+}
+
+.btn-primary:hover {
+  background-color: black;
+  color: white;
+}
+
+.ferrari-roma-1 {
+  background-image: url("FerrariRoma1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:400px;
+  padding-bottom:400px;
+}
+
+.ferrari-roma-2 {
+  background-image: url("FerrariRoma2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:400px;
+  padding-bottom:400px;
+}
+
+.ferrari-roma-3 {
+  background-image: url("FerrariRoma3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:400px;
+  padding-bottom:400px;
+}
+
+.ferrari-roma-4 {
+  background-image: url("FerrariRoma4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:400px;
+  padding-bottom:400px;
+}
